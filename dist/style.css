@@ -1,0 +1,48 @@
+.body{
+  background-color: #23284d;
+}
+.result-meme img{
+  padding-top: 10%;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  width:25%;
+}
+.container{
+  text-align: center;
+  color: white;
+}
+.title{
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+ 
+}
+.palindrome-div{
+  font-family: Tahoma;
+  background-color:#eeeeee;
+  color: black;
+  font-size:1.5em;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 20px;
+  box-shadow:5px 10px 10px gray;
+  margin-bottom: 25px;
+}
+.hidden{
+  visibility: hidden;
+}
+
+.palindrome-definition-div{
+  background-color:#ff6666;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 20px;
+  
+}
